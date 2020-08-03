@@ -2,7 +2,7 @@
 > RFM Analysis for customer segmentation based on transaction data
 
 ### RFM이란?
-* 최근 방문일(Recency), 방문 빈도(Frequency), 소비 규모(Monetray)를 고려하여 고객의 가치를 판단/분석하는 방법입니다.
+* 최근 방문일(Recency), 방문 빈도(Frequency), 소비 규모(Monetray)를 고려하여 고객의 가치를 판단/분석하는 방법
 
 ### Note
 * 회원제 유통 매장의 transaction data를 기반으로 RFM 분석을 실시합니다.
