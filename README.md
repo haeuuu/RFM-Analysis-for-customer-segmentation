@@ -1,10 +1,10 @@
 # RFM Analysis for customer segmentation
 > RFM Analysis for customer segmentation based on transaction data
   
-회원제 유통 매장의 매출 증대를 위한 데이터 분석 프로젝트입니다.
+회원제 유통 매장의 매출 증대를 위한 데이터 분석 프로젝트입니다.  
 RFM(최근 방문일, 방문 빈도, 소비 규모)를 이용하여 고객 세분화를 진행하고 연관 규칙 및 word2vec을 이용하여 연관 제품 추천 서비스를 제공합니다.
 
-### 1 ) RFM을 이용한 고객 세분화**
+### 1 ) RFM을 이용한 고객 세분화
 
 #### RFM이란?
 * 최근 방문일(Recency), 방문 빈도(Frequency), 소비 규모(Monetray)를 고려하여 고객의 가치를 판단/분석하는 방법
